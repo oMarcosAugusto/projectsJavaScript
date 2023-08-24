@@ -6,11 +6,18 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #1113163c;
 }
 
 .content h1 {
+    display: grid;
     margin: 0;
+    justify-content: center;
+    color: #ffcb05;
+    text-shadow: 1.5px 2px 2px rgba(0, 0, 0, 0.5);
+    font-family: 'Pokemon Solid', sans-serif;
+    padding-bottom: 0.5rem;      
+    font-size: 3rem;            
 }
 
 .content {
